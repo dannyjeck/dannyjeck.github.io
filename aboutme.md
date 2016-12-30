@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: PhD Candidate/Computational Neuroscientist/Vision Researcher
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a graduate student at Johns Hopkins University pursuing a PhD in [biomedical engeering](http://www.bme.jhu.edu/) , with a focus on [computational neuroscience](http://www.bme.jhu.edu/research/neuroscience-neuroengineering). I work with Ernst Niebur in the [Computational Neuroscience Laboratory](http://cnslab.mb.jhu.edu/). My research is on neural mechanisms for structuring low-level feature information into objects, in the context of surface perception, visual saliency, contour detection, and figure-ground segmentation. I am interested in the intersection of computer vision, computational neuroscience, and deep learning, particularly why humans see so well while computers, despite the immense computational resources they have access to, still continue to "see" so poorly.
