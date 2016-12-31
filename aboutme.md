@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: PhD Candidate/Computational Neuroscientist/Vision Researcher
+subtitle: PhD Student/Computational Neuroscientist/Vision Researcher
 published: true
 ---
 
