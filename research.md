@@ -14,7 +14,7 @@ Code | Report
 **Head Movements in Virtual Reality**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_Head.png" width="250">
 
-Covert visual attention is traditionally studied using eye movements under head-fixed conditions. Here, we study the role of head movements when viewing large-scale, immersive natural images in virtual reality. We quantify head movement kinematics under these conditions and show that head movements follow a stereotyped pattern.
+Overt visual attention is traditionally studied using eye movements under head-fixed conditions. Here, we study the role of head movements when viewing large-scale, immersive natural images in virtual reality. We quantify head movement kinematics under these conditions and show that head movements follow a stereotyped pattern.
 
 Data | Paper
 
@@ -42,8 +42,9 @@ Code | [Paper](http://brianhhu.github.io/files/Hu_etal16_3DSaliency.pdf)
 **3D Surface Representation**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_3DSurface.png" width="250">
 
-How the brain represents 3D surfaces and directs attention to these surfaces is not well known. We propose a neural model that groups together the disparity-selective neurons that belong to a surface. Our model also reproduces several psychophysical results related to the spread of attention across surfaces.
+How the brain represents 3D surfaces and directs attention to these surfaces is not well known. We propose a neural model that groups together the disparity-selective neurons that belong to a surface. Our model is able to reproduce several key psychophysical results, including the spread of attention across surfaces.
 
 Code | [Paper](http://brianhhu.github.io/files/Hu_etal15_3DSurface.pdf)
 
+<br><br>
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=JNkLR8kAAAAJ&hl=en).
