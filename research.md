@@ -14,7 +14,7 @@ Code | Report
 **Head Movements in Virtual Reality**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_Head.png" width="250">
 
-Natural visual exploration makes use of both head and eye movements. Here, we study the role of head movements when viewing large-scale, immersive natural images in virtual reality. We quantify head movement kinematics under these conditions and show that head movements follow a stereotyped pattern.
+Natural visual exploration makes use of both head movements and eye movements. Here, we study the role of head movements when viewing large-scale, immersive natural images in virtual reality. We quantify head movement kinematics under these conditions and show that head movements follow a stereotyped pattern.
 
 Data | Paper
 
