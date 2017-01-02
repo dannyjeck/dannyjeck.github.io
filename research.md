@@ -38,7 +38,7 @@ We extend a previous model of proto-object based saliency to include depth infor
 Code | [Paper](http://brianhhu.github.io/files/Hu_etal16_3DSaliency.pdf)
 
 **3D Surface Representation**
-<img style="float: right;" src="http://brianhhu.github.io/img/Fig_3DSurface.png" width="500">
+<img style="float: right;" src="http://brianhhu.github.io/img/Fig_3DSurface.png" width="250">
 
 How the brain represents 3D surfaces and directs attention to these surfaces is not well known. We propose a neural model that is able to group together disparity-selective neurons that belong to a surface. Our model reproduces several psychophysical results related to the spread of attention across surfaces.
 
