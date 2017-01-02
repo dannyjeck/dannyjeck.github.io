@@ -18,17 +18,17 @@ Covert visual attention is traditionally studied using eye movements under head-
 
 Data | Paper
 
-**Contour Detection and Figure-Ground Segmentation**
+**Figure-Ground Segmentation in Natural Images**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_FG.png" width="250">
 
-Figure-ground segmentation is essential for understanding natural scenes. However, understanding how the brain performs this task remains a challenge. We propose an image computable model that is able to perform both contour detection and figure-ground segmentation on natural images. We use the Berkeley Segmentation Dataset (BSDS-300) to evaluate our results.
+Figure-ground segmentation is essential for understanding natural scenes. However, the neural mechanisms governing this process are unclear. We propose an image computable model that performs both contour detection and figure-ground segmentation on natural images. We use the Berkeley Segmentation Dataset (BSDS-300) to evaluate our results.
 
 Code | Abstract
 
-**Contour Integration and Border Ownership**
+**Contour Integration and Border Ownership Assignment**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_Contour.png" width="250">
 
-We propose a recurrent neural model that is able to reproduce several sets of experimental results related to contour integration and border ownership assignment using the same set of network parameters. Our model also provides testable predictions about the role of feedback and attention.
+We propose a recurrent neural model that reproduces several sets of experimental results related to contour integration and border ownership assignment using the same network parameters. Our model also provides testable predictions about the role of feedback and attention in different visual areas.
 
 Code | Paper
 
@@ -42,7 +42,7 @@ Code | [Paper](http://brianhhu.github.io/files/Hu_etal16_3DSaliency.pdf)
 **3D Surface Representation**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_3DSurface.png" width="250">
 
-How the brain represents 3D surfaces and directs attention to these surfaces is not well known. We propose a neural model that is able to group together disparity-selective neurons that belong to a surface. Our model reproduces several psychophysical results related to the spread of attention across surfaces.
+How the brain represents 3D surfaces and directs attention to these surfaces is not well known. We propose a neural model that groups together the disparity-selective neurons that belong to a surface. Our model also reproduces several psychophysical results related to the spread of attention across surfaces.
 
 Code | [Paper](http://brianhhu.github.io/files/Hu_etal15_3DSurface.pdf)
 
