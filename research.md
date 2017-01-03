@@ -44,7 +44,7 @@ Code | [Paper](http://brianhhu.github.io/files/Hu_etal16_3DSaliency.pdf)
 
 How the brain represents 3D surfaces and directs attention to these surfaces is not well known. We propose a neural model that groups together disparity-selective neurons that belong to a surface. Our model is also able to reproduce several key psychophysical results, including the spread of attention across surfaces.
 
-Code | [Paper](http://brianhhu.github.io/files/Hu_etal15_3DSurface.pdf)
+[Code](https://github.com/brianhhu/3D-Surface-Grouping) | [Paper](http://brianhhu.github.io/files/Hu_etal15_3DSurface.pdf)
 
 <br><br>
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=JNkLR8kAAAAJ&hl=en).
