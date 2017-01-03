@@ -37,7 +37,7 @@ Code | Paper
 
 We extend a model of proto-object based saliency to include depth information. Our results show that the added depth information provides a small, but statistically significant improvement in gaze prediction on three separate eye tracking datasets.
 
-Code | [Paper](http://brianhhu.github.io/files/Hu_etal16_3DSaliency.pdf)
+[Code](https://github.com/brianhhu/3D-Saliency) | [Paper](http://brianhhu.github.io/files/Hu_etal16_3DSaliency.pdf)
 
 **3D Surface Representation**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_3DSurface.png" width="250">
