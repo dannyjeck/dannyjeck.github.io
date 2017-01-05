@@ -14,14 +14,14 @@ Code | Report
 **Head Movements in Virtual Reality**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_Head.png" width="250">
 
-Natural visual exploration makes use of both head movements and eye movements. Here, we study the role of head movements when viewing large-scale, immersive natural images in virtual reality. We quantify head movement kinematics under these conditions and show that head movements follow a stereotyped pattern.
+Natural visual exploration makes use of both head movements and eye movements. Here, we study the role of head movements when viewing large-scale, immersive images in virtual reality. We quantify head movement kinematics under these conditions and show that head movements follow a stereotyped pattern.
 
 Data | Paper
 
 **Figure-Ground Segmentation in Natural Images**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_FG.png" width="250">
 
-Figure-ground segmentation is essential for understanding natural scenes. However, the neural mechanisms of this process remain unclear. We propose an image computable model that performs both contour detection and figure-ground segmentation on natural images. We use the Berkeley Segmentation Dataset (BSDS-300) to evaluate our results.
+Figure-ground segmentation is essential for understanding natural scenes. However, the neural mechanisms of this process remain unclear. We propose an image computable model that performs both contour detection and figure-ground segmentation on natural images. We evaluate our model on the Berkeley Segmentation Dataset (BSDS-300).
 
 Code | Abstract
 
