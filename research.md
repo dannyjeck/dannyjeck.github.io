@@ -21,7 +21,7 @@ Data | Paper
 **Figure-Ground Segmentation in Natural Images**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_FG.png" width="250">
 
-Figure-ground segmentation is essential for understanding natural scenes. However, the neural mechanisms of this process remain unclear. We propose a fully image computable model that performs both contour detection and figure-ground segmentation on natural images. We compare our model results to the neural responses of border-ownership selective neurons and also evaluate our model using the Berkeley Segmentation Dataset (BSDS-300).
+Figure-ground segmentation is essential for understanding natural scenes. However, the neural mechanisms of this process remain unclear. We propose a fully image computable model that performs both contour detection and figure-ground segmentation on natural images. We compare our model results to the responses of border-ownership selective neurons and also evaluate our model using the Berkeley Segmentation Dataset (BSDS-300).
 
 Code | Abstract
 
