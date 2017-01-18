@@ -9,7 +9,7 @@ published: true
 
 During visual perception of complex objects, humans shift their gaze to different regions of a particular object in order to gain more information about that object. We propose a parts-based, Bayesian framework for integrating information across receptive fields and fixation locations in order to recognize objects.
 
-Code | Report
+Code | [Report](http://brianhhu.github.io/files/Hu_BIAS_Report.pdf)
 
 **Head Movements in Virtual Reality**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_Head.png" width="250">
