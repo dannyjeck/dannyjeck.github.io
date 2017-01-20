@@ -16,7 +16,7 @@ Code | [Report](http://brianhhu.github.io/files/Hu_BIAS_Report.pdf)
 
 Natural visual exploration makes use of both head movements and eye movements. Here, we study the role of head movements when viewing large-scale, immersive images in virtual reality. We quantify head movement kinematics under these conditions and show that head movements follow a stereotyped pattern.
 
-Data | Paper
+Data | [Paper](http://brianhhu.github.io/files/Hu_etal17_HeadMovements.pdf)
 
 **Figure-Ground Segmentation in Natural Images**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_FG.png" width="250">
