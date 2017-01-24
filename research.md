@@ -11,13 +11,6 @@ During visual perception of complex objects, humans shift their gaze to differen
 
 Code | [Report](http://brianhhu.github.io/files/Hu_BIAS_Report.pdf)
 
-**Head Movements in Virtual Reality**
-<img style="float: right;" src="http://brianhhu.github.io/img/Fig_Head.png" width="250">
-
-Natural visual exploration makes use of both head movements and eye movements. Here, we study the role of head movements when viewing large-scale, immersive images in virtual reality. We quantify head movement kinematics under these conditions and show that head movements follow a stereotyped pattern.
-
-[Data](https://github.com/brianhhu/VR_HeadMovements) | [Paper](http://brianhhu.github.io/files/Hu_etal17_HeadMovements.pdf)
-
 **Figure-Ground Segmentation in Natural Images**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_FG.png" width="250">
 
@@ -31,6 +24,13 @@ Code | [Abstract](http://brianhhu.github.io/files/Hu_COSYNE_Abstract.pdf)
 We propose a recurrent neural model that explains several sets of neurophysiological results related to contour integration and border ownership assignment using the same network parameters. Our model also provides testable predictions about the role of feedback and attention in different visual areas.
 
 Code | Paper
+
+**Head Movements in Virtual Reality**
+<img style="float: right;" src="http://brianhhu.github.io/img/Fig_Head.png" width="250">
+
+Natural visual exploration makes use of both head movements and eye movements. Here, we study the role of head movements when viewing large-scale, immersive images in virtual reality. We quantify head movement kinematics under these conditions and show that head movements follow a stereotyped pattern.
+
+[Data](https://github.com/brianhhu/VR_HeadMovements) | [Paper](http://brianhhu.github.io/files/Hu_etal17_HeadMovements.pdf)
 
 **3D Visual Saliency**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_3DSaliency.png" width="250">
