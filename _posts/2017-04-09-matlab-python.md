@@ -3,7 +3,7 @@ layout: post
 published: true
 title: MATLAB vs. Python
 date: '2017-04-09'
-image: /img/pythonvsmatlab_thumbnail.jpg
+image: /img/pythonvsmatlab.png
 ---
 
 <p align="center">
