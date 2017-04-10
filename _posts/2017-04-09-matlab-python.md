@@ -6,8 +6,7 @@ date: '2017-04-09'
 ---
 
 <p align="center">
-  <img src="http://brianhhu.github.io/img/pythonvsmatlab.png">
-  <br><br>
+  <img src="http://brianhhu.github.io/img/pythonvsmatlab.png"><br />
   <em>Source: <a href="http://www.pyzo.org/python_vs_matlab.html">http://www.pyzo.org/python_vs_matlab.html</a></em>
 </p>
 
