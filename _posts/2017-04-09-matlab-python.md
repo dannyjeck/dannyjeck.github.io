@@ -6,7 +6,8 @@ date: '2017-04-09'
 ---
 
 <p align="center">
-  <img src="http://brianhhu.github.io/img/pythonvsmatlab.png"/>
+  <img src="http://brianhhu.github.io/img/pythonvsmatlab.png"><br />
+  <em>Source: http://www.pyzo.org/python_vs_matlab.html</em>
 </p>
 
 I've been using MATLAB for most of my research career. MATLAB provides an easy-to-use programming environment where you can rapidly prototype new ideas. Everything is self-contained, so you don't have to worry about installing extra packages or their dependencies. The documentation is well done, most of your questions can readily be answered by the broader MATLAB community, and there is also tons of user-contributed code on MATLAB's File Exchange. Sounds great, right?
