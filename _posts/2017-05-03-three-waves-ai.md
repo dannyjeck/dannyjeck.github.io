@@ -22,7 +22,7 @@ Good at perceiving and learning about the natural world, but has minimal abstrac
    *Challenges*: adversarial examples, requires vast amounts of training data
 
 3. **Contextual Adaptation**  
-Building explanatory models over time that can characterize real-world phenomena. When interrogated, these models allow us to understand how the model makes decisions. Learning is used to create a contextual model, the world is perceived in terms of this model, which can then drive reasoning and abstraction.  
+Learning is used to create a contextual model over time, the world is perceived in terms of this model, which then drives reasoning and abstraction. When interrogated, the model allows us to understand how a decision was made.  
 
    *Examples*: one-shot learning, generative models for handwriting  
    *Challenges*: requires combining the first two waves, still in early stages
