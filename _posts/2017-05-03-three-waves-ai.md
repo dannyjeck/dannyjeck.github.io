@@ -7,9 +7,9 @@ date: '2017-05-03'
 
 [![Three Waves of AI](http://brianhhu.github.io/img/video_screenshot.png)](https://www.youtube.com/watch?v=-O01G3tSYpU "Three Waves of AI")
 
-<!--break-->
-
 In this [video](https://www.youtube.com/watch?v=-O01G3tSYpU), John Launchbury of DARPA talks about the three waves of A.I., or artificial intelligence. I found the video helpful in putting the field of A.I. in historical context, while also providing a roadmap for the future of A.I.
+
+<!--break-->
 
 The three waves are:
 
