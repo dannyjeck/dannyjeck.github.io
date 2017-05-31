@@ -34,7 +34,6 @@ published: true
 	{{ post.content | split:'<!--break-->' | first }}
    	{% if post.content contains '<!--break-->' %}
       	   <a href="{{ post.url }}">read more</a>
-   	{% endif %}
 	 <!-- original
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
