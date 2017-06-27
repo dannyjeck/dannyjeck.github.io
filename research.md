@@ -18,7 +18,7 @@ Figure-ground segmentation is essential for understanding natural scenes. Howeve
 
 Code | [Abstract](http://brianhhu.github.io/files/Hu_COSYNE_Abstract.pdf)
 
-**Contour Integration and Border Ownership Assignment**
+**Contour Integration and Border-Ownership Assignment**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_Contour.png" width="250">
 
 We propose a recurrent neural model that explains several sets of neurophysiological results related to contour integration and border ownership assignment using the same network parameters. Our model also provides testable predictions about the role of feedback and attention in different visual areas.
