@@ -23,7 +23,7 @@ Code | [Abstract](http://brianhhu.github.io/files/Hu_COSYNE_Abstract.pdf)
 
 We propose a recurrent neural model that explains several sets of neurophysiological results related to contour integration and border ownership assignment using the same network parameters. Our model also provides testable predictions about the role of feedback and attention in different visual areas.
 
-[Code](https://github.com/brianhhu/Contour_BOS) | Paper
+[Code](https://github.com/brianhhu/Contour_BOS) | [Paper](http://brianhhu.github.io/files/Hu_Niebur17.pdf)
 
 **Head Movements in Virtual Reality**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_Head.png" width="250">
