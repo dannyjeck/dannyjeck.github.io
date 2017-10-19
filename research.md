@@ -7,6 +7,7 @@ published: true
 
 **Analyzing the effect of common input on the rate of synchronous spiking between neurons**
 <img style="float: right;" src="" width="250">
+
 description here
 
 Code | [Report](http://dannyjeck.github.io/files/Hu_BIAS_Report.pdf)
