@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://brianhhu.github.io"
+url: "http://dannyjeck.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Brian H. Hu
+title: Daniel M. Jeck
 
 # Short description of your site
 description: Computational neuroscientist interested in vision!
@@ -23,14 +23,14 @@ description: Computational neuroscientist interested in vision!
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "http://brianhhu.github.io"
+  Home: "http://dannyjeck.github.io"
   About Me: "aboutme"
   Research: "research"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   #  - GitHub Pages: "https://pages.github.com/"
-  CV: "http://brianhhu.github.io/files/CV_Brian_Hu.pdf"
+  CV: "http://dannyjeck.github.io/files/Daniel_Jeck_CV.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -46,13 +46,13 @@ avatar: "/img/profile_pic_color.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Brian Hu
-  email: "brian.hsiaochuan.hu@gmail.com"
+  email: "danny.jeck@gmail.com"
   #facebook: yourname  # eg. daattali
-  github: brianhhu    # eg. daattali
+  github: dannyjeck    # eg. daattali
   #twitter: yourname   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: brian-hu-6aaa4669  # eg. daattali
+  linkedin: daniel-jeck-83640711  # eg. daattali
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
@@ -88,7 +88,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "brianhhu"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "dannyjeck"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
