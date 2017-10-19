@@ -45,7 +45,7 @@ avatar: "/img/profile_pic_color.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Brian Hu
+  name: Daniel Jeck
   email: "danny.jeck@gmail.com"
   #facebook: yourname  # eg. daattali
   github: dannyjeck    # eg. daattali
