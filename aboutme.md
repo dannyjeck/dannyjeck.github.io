@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: PhD Student/Computational Neuroscientist/Vision Researcher
+subtitle: PhD Student/Computational Neuroscientist/Engineer
 published: true
 ---
 
-I'm a graduate student at Johns Hopkins University pursuing a PhD in [biomedical engineering](http://www.bme.jhu.edu/), with a focus on systems neuroscience and neuroengineering. I work with [Ernst Niebur](http://www.neuroscience.jhu.edu/research/faculty/62) and [Rudiger von der Heydt](http://neuroscience.jhu.edu/research/faculty/89) in the Solomon H. Snyder Department of Neuroscience. My [research](https://brianhhu.github.io/research/) involves modeling the neural mechanisms of perceptual organization and selective attention. I'm also interested in the intersection of biological vision and computer vision, and how fundamental principles from computational neuroscience can help us to build machines that see. You can contact me [here](mailto:brian.hsiaochuan.hu@gmail.com).
+I'm currently a graduate student at Johns Hopkins University pursuing a PhD in [biomedical engineering](http://www.bme.jhu.edu/), with a focus on systems neuroscience and neuroengineering. I work with [Ernst Niebur](http://neuroscience.jhu.edu/research/faculty/89) in the Solomon H. Snyder Department of Neuroscience. My [research](https://dannyjeck.github.io/research/) focuses on modeling and understanding what aspects of an image attract visual attention (usually measured by fixations). I'm also interested using results from human behavioral studies to motivate improvements in computer vision algorithms. You can contact me [here](mailto:danny.jeck@gmail.com).
+
