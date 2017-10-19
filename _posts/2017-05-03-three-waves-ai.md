@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: The Three Waves of A.I.
 date: '2017-05-03'
 ---
