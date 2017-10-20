@@ -14,7 +14,7 @@ In analyzing spike recordings of neurons it is often scientifically interesting 
 Code | [Report](http://dannyjeck.github.io/files/Jeck_SynchronyChange.pdf)
 
 **Closed form jitter analysis of neuronal spike trains**
-<img style="float: right;" src="http://dannyjeck.github.io/img/fig_computation_time.eps" width="250">
+<img style="float: right;" src="http://dannyjeck.github.io/img/fig_computation_time.png" width="250">
 
 When looking at the rate of synchronous spiking between neurons, it is very important to have a time scale of comparison. [Amarasingham et al (2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3349623/) developed a statistically rigorous way to control for slowly varying spike rates of two neurons while analyzing their synchronous activity using Monte Carlo methods. We developed a way to perform the analysis in closed form and demonstrated the increase in speed. 
 
